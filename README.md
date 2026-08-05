@@ -12,7 +12,7 @@
 
 ## 🌐 Platform Access
 
-👉 https://your-project.netlify.app
+👉 lalishopsphere.netlify.app/
 
 ---
 
