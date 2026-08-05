@@ -10,10 +10,9 @@
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Platform Access
 
-🚀 **Live Application:**  
-👉 **https://your-live-url.netlify.app**
+👉 https://your-project.netlify.app
 
 ---
 
