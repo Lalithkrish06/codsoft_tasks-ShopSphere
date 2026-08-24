@@ -57,7 +57,7 @@ This project is a production-inspired e-commerce web application designed to del
 
 ---
 
-## 📂 Project Structure
+
 
 ## 📂 Project Structure
 
