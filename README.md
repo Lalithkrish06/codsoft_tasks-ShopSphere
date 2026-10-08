@@ -20,7 +20,7 @@
 
 ### ⚡ Experience ShopSphere
 
-<a href="https://lalishopsphere.netlify.app/">
+<a href="https://shopsphere.lalithkrish.dev/">
   <img src="https://img.shields.io/badge/🛒%20Live%20Platform-ShopSphere-00C896?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Platform">
 </a>
 
@@ -518,7 +518,7 @@ The project demonstrates how modern web technologies can be combined to create a
 
 <div align="center">
 
-<a href="https://lalishopsphere.netlify.app/">
+<a href="https://shopsphere.lalithkrish.dev/">
   <img src="https://img.shields.io/badge/🌐%20Live%20Platform-ShopSphere-00C896?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Platform">
 </a>
 <a href="https://www.linkedin.com/posts/lalithkrish-data_softwareengineering-fullstackdeveloper-react-ugcPost-7476178702494638080-05Ce/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFOj_WYBncOFydeAPBILXlA2BQoiO9StjuA">
